@@ -77,13 +77,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThinalLaknindu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ThinalLaknindu)  
 
-<center>
-📧 **Email**: [thinalsilva314@gmail.com](mailto:thinalsilva314@gmail.com) 
-</center>
-
+📧 **Email**: [thinalsilva314@gmail.com](mailto:thinalsilva314@gmail.com)  
 
 </div>
-
 
 ---
 
