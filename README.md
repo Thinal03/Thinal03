@@ -1,47 +1,94 @@
-# 👋 Hi, I'm Thinal Laknindu!
+<div align="center">
+  
+![Header](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
 
-Welcome to my GitHub profile! I'm a **passionate developer** with a background in **Computer Science and Software Engineering**. I'm currently exploring the world of **Data Science** 🌟.
+# 🚀 Hi, I'm Thinal Laknindu!
 
----
+🎓 **Computer Science & Software Engineering Graduate** | 📈 Aspiring **Data Scientist** | 💻 Passionate **Developer**  
 
-## 💻 About Me  
-- 🎓 **Education**: HD in Computer Science and Software Engineering.  
-- 📚 **Current Goal**: Pursuing a top-up degree in **Data Science**.  
-- 🎯 **Interests**: Web Development 🌐 | Data Analysis 📊 | Building Unique Projects 🚀.
-
----
-
-## 🛠️ Tech Stack  
-- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-- **Web Development**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-- **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)  
-- **Tools**: Git | VS Code | R Studio | Android Studio  
+</div>
 
 ---
 
-## 🚀 Projects  
-Here are some of my projects:  
-1. **Vocal Vantage 🎤**  
-   - An online speech therapy platform with live sessions, scheduling, and therapy plan management.  
-   - *Technologies*: React, Node.js, WebRTC, MySQL.  
-
-2. **The Gallery Cafe 🍽️🎨**  
-   - A unique online platform combining art displays with a cafe ordering system.  
-   - *Technologies*: HTML, CSS, JavaScript, Django, and MySQL.
+## 👨‍💻 About Me  
+🎓 **Education**: Completed **Higher Diploma** in Computer Science and Software Engineering.  
+🎯 **Next Goal**: Pursuing a **Top-Up Degree** in Data Science.  
+🚀 **Passions**: Building innovative software solutions, exploring **data science**, and learning new technologies.  
 
 ---
 
-## 📈 Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinal03&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinal03&layout=compact&theme=radical)
+## 🛠️ My Tech Stack  
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
-## 🔗 Connect With Me  
-- 📧 **Email**: [thinalsilva314@email.com](mailto:thinalsilva314@email.com)  
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)  
-- 🌐 **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
+
+## 🌟 Tools I Use  
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-276DC3?style=flat&logo=r&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-FF00FF?style=flat&logo=wampserver&logoColor=white)
+
+</div>
 
 ---
 
-🚀 *Let's create something amazing together!* 🌟
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinal03&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinal03&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Let's Connect  
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+
+📧 **Email**: [thinalsilva31@gmail.com](mailto:thinalsilva314@gmail.com) 
+💼 **LinkedIn**: [Thinal Laknindu](https://linkedin.com/in/yourusername)  
+
+</div>
+
+
+---
+
+<div align="center">
+
+![Footer](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+
+✨ *“Code, Learn, Repeat. Always moving forward!”* 🚀
+
+</div>
