@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Thinal Laknindu]!
+# 👋 Hi, I'm Thinal Laknindu!
 
 Welcome to my GitHub profile! I'm a **passionate developer** with a background in **Computer Science and Software Engineering**. I'm currently exploring the world of **Data Science** 🌟.
 
